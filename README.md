@@ -20,7 +20,7 @@ pip install keras_vggface
 
 - Label names are available now (Check the prediction code).
 
-
+o modelo do vgg2 se encontra em https://github.com/WeidiXie/Keras-VGGFace2-ResNet50
 ### Library Versions
 
 - Keras v2.1.1
